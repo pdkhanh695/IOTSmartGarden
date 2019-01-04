@@ -1,2 +1,2 @@
 # IOTSmartGarden
-In this project, I used STM32 ARM Cortex M3 and some device : Moisture Sensor, light sensor, step mottor
+This is final version, that I made by javascript, html, using java ee compiler. In addition, I also used websocked io to communication between server and client(both web application and ARM cortex - M3 through ESP8266). The data was converted FROM STRONG TO json format to control step motor (3d motion like CNC machine) monitor sensor that feedback from machine to web application(light, humidity, moisture sensor)
